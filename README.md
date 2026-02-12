@@ -3,7 +3,7 @@
 **Chess Game** is a simplified terminal-based version of the classic chess board game and focuses on applying core programming concepts through an interactive, text-based game experience. This project was developed as part of the **Fundamentos de Programação 20/21 course** at Lusófona Informática.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d483449-9b61-4fdc-a191-7be0bae8faf3" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1d483449-9b61-4fdc-a191-7be0bae8faf3" width="400"/>
 </p>
 
 ## Gameplay
